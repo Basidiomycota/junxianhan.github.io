@@ -1,7 +1,7 @@
 ---
 title: "Physiological function of hydrophobin Vmh3 in lignin degradation by white-rot fungus Pleurotus ostreatus"
 collection: publications
-permalink: /publication/Physiological function of hydrophobin Vmh3 in lignin degradation by white-rot fungus Pleurotus ostreatus
+permalink: "https://basidiomycota.github.io/junxianhan.github.io/publications/"
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
