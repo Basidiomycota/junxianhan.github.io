@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: "https://basidiomycota.github.io/junxianhan.github.io/publications/"
+permalink: /publications/
 author_profile: true
 ---
 
