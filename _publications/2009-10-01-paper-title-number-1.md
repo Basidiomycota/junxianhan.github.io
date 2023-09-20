@@ -1,15 +1,6 @@
 ---
-title: "Paper Title Number 1"
+title: "Physiological function of hydrophobin Vmh3 in lignin degradation by white-rot fungus Pleurotus ostreatus."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+permalink: "https://academic.oup.com/lambio/article-abstract/76/4/ovad048/7120042?redirectedFrom=fulltext&login=true"
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Han J, Kawauchi M, Terauchi Y, Yoshimi A, Tanaka C, Nakazawa T, Honda Y (2023) Physiological function of hydrophobin Vmh3 in lignin degradation by white-rot fungus Pleurotus ostreatus. Letters in Applied Microbiology 76(4).
